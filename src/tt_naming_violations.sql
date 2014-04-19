@@ -1,0 +1,1 @@
+create or replace type tt_naming_violations force is table of ot_naming_violation;
