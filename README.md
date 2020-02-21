@@ -3,7 +3,7 @@ Oracle Naming Convention
 
 Check your Oracle database objects and code for naming violations
 
-##About
+## About
 
 Most development teams have agreed upon some sort of naming convention as it typically increases the readability and comprehension of the source code.
 Defining these rules is one thing, but correctly and consistently applying them is another.
@@ -14,6 +14,6 @@ Please read through the following blog post to get acquainted with the _API_NAMI
 
 Minimum required database version: Oracle Database 11g Release 1.
 
-##License
+## License
 
 See LICENSE.md
